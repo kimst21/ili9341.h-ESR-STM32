@@ -9,7 +9,7 @@
 #define ILI9341_DC_PORT             GPIOA
 #define ILI9341_DC_PIN              GPIO_PIN_2
 #define ILI9341_CS_PORT             GPIOB
-#define ILI9341_CS_PIN              GPIO_PIN_10
+#define ILI9341_CS_PIN              GPIO_PIN_6
 #define ILI9341_LCD_WIDTH           240U
 #define ILI9341_LCD_HEIGHT          320U
 
